@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,R as o}from"./framework-c7e7fbe4.js";const s={},c=o("p",null,"Markdown content.",-1),_=[c];function l(r,a){return t(),n("div",null,_)}const d=e(s,[["render",l],["__file","single.html.vue"]]);export{d as default};

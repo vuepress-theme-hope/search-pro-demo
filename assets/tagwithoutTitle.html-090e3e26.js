@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,Q as n,R as a}from"./framework-c7e7fbe4.js";const c={},l=a("p",null,"Markdown content.",-1);function r(s,_){return t(),o("div",null,[n(" markdownlint-disable MD041 "),l])}const d=e(c,[["render",r],["__file","tagwithoutTitle.html.vue"]]);export{d as default};
